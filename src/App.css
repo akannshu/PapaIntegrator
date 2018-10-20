@@ -1,0 +1,145 @@
+/* Navigation bar CSS */
+ul{
+  list-style-type: none;
+  font-size: 15px;
+  color: white;
+  display: inline;
+}
+.nava{
+  color: white;
+  text-decoration: none;
+}
+nav{
+  background: linear-gradient(to right,black 55%,#03b8f9 42%);
+  margin-top: -0.57%;
+  width: 101.59%;
+  margin-left: -1%;
+  padding-bottom: 0.5%;
+  margin-bottom: 1%;
+
+}
+li{
+  display: inline-block;
+  margin-top: 4px;
+  margin-left: 1.5%;
+  margin-bottom:1%;
+}
+span{
+  padding: 10px;
+  font-size: 20px;
+}
+#motion{
+  margin-left: 20%;
+}
+#thor{
+  height:0px;
+  width:0px;
+  margin-top: -4.9%;
+  margin-left: 54.895%;
+  border-left: 26.2px solid black;
+  border-right: 26.2px solid transparent;
+  border-top: 26.2px solid transparent;
+  border-bottom: 26.2px solid transparent;
+}
+/* navigation bar CSS ends */
+
+/* head of the page */
+#tech{
+    width: 30%;
+    margin-top: 2%;
+}
+#daddy{
+  font-family: Helvetica,Arial,sans-serif;
+  color: Black;
+  letter-spacing: 8px;
+  font-size: 30px;
+  text-decoration: none;
+  padding-left: 8%;
+
+}
+#making{
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: lighter;
+  padding-left: 25%;
+  margin-top: -2%;
+}
+.belownav{
+  margin-left: 8%;
+  font-family: Helvetica,Arial,sans-serif;
+  color:black;
+  font-size: 20px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+#next{
+  margin-left: 70%;
+  margin-top: -7%;
+}
+/* Css for head ends here */
+
+#below-head{
+  background: gray;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 6%;
+  height:400px;
+  margin-left: -0.6%;
+  width:101.2%;
+}
+/* area below slider */
+
+#imgblocks{
+  margin-top: 2%;
+}
+.display{
+  display: inline;
+  margin-left: 10%;
+}
+.display img{
+  height: 250px;
+  width: 250px;
+  border-radius: 75%;
+}
+/* Footer */
+#foot{
+  background: black;
+  width: 101.59%;
+  margin-left: -1%;
+  height: 230px;
+  color: gray;
+  font-family: Helvetica,Arial,sans-serif;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+#foothead{
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  font-weight: lighter;
+  letter-spacing: 3px;
+  padding-top: 1%;
+}
+hr{
+  display: inline;
+}
+#foot h2{
+    font-family: 'Courier New', monospace;
+    display: inline;
+    padding: 2%;
+}
+#subline{
+  text-align: center;
+}
+#footcontact{
+  padding: 2%;
+  display: inline;
+}
+#contactbtm{
+  margin-top: 3%;
+}
+#contactbtm img{
+  height: 20px;
+  width:20px;
+  margin-left: 1%;
+}
